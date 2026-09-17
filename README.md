@@ -1,5 +1,7 @@
 # Saint Leo Finance Applied Practicum Network
 
+**Spring 2027 founding-pilot ecosystem and deployable launch site.**
+
 A finance-led, industry-guided, faculty-supervised ecosystem for Spring 2027 applied learning.
 
 ## Founding proposition
@@ -65,3 +67,8 @@ Finance lead and practicum architect: Zachary Smith.
 ## Status
 
 Spring 2027 founding-pilot design package.
+
+
+## Enhanced launch experience
+
+The deployable public experience is available at both `index.html` and `site/index.html`. It includes responsive design, interactive pathway dialogs, reveal motion, the founding-pilot recommendation, partner commitment, launch architecture, scorecard, and action request.

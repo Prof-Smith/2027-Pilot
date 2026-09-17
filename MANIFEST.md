@@ -6,8 +6,10 @@
 - `.github/workflows/pages.yml`
 - `.gitignore`
 - `CONTRIBUTING.md`
+- `DEPLOYMENT.md`
 - `GOVERNANCE.md`
 - `LICENSE`
+- `MANIFEST.md`
 - `README.md`
 - `data/README.md`
 - `data/treasury_13_week_sample.csv`
@@ -16,6 +18,7 @@
 - `governance/BRAND_AND_PUBLICATION.md`
 - `governance/DATA_AND_AI_STANDARD.md`
 - `governance/ROLES_AND_RACI.md`
+- `index.html`
 - `pilot/90_DAY_ROADMAP.md`
 - `pilot/SCORECARD.md`
 - `pilot/SPRING_2027_FOUNDING_PILOT.md`
